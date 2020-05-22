@@ -14,7 +14,5 @@ class Dog
   end
 end
 
-dog = Dog.new
-dog.bark
 
 
